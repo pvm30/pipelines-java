@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pvaquezm/PVM14-AZURE-PIPELINES-PLAYGROUND/_apis/build/status/pvm30.pipelines-java?branchName=master)](https://dev.azure.com/pvaquezm/PVM14-AZURE-PIPELINES-PLAYGROUND/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
